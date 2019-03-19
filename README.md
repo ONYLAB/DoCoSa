@@ -7,7 +7,7 @@ Construction of the American DRB1 Frequencies:
 _________________________________________________________________
 Broad race code	Race/ethnic description	Percentages Before Rounding to 100	 Percentages in the Population
 AFA	            African American	      13.4	                               13.46733668
-API	            Asian/Pacific Islander	 6	                                  6.030150754
+API	            Asian/Pacific Islander	 6	                                6.030150754
 CAU	            Caucasian	              60.7	                               61.00502513
 HIS	            Hispanic	              18.1	                               18.19095477
 NAM	            Native American	         1.3	                                1.306532663
