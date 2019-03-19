@@ -18,3 +18,6 @@ _________________________________________________________________
 f_AME_DRB1i = SUM(f_AFA x f_AFA_DRB1i + f_API x f_API_DRB1i + f_CAU x f_CAU_DRB1i + f_HIS x f_HIS_DRB1i + f_NAM x f_NAM_DRB1i).
 The individual frequencies for DRB1s for the American (AME) population are shown in Column AME_freq of /DATA/American_DRB1_Freq.xlsx
 _________________________________________________________________
+
+CONVENTIONS:
+1. In the code, we delete all appearances of "HLA-" and the letters "G,L,S,C,A,Q,N" both uppercase/lowercase. Accordingly, we delete those in American_DRB1_Freq.xlsx g{04:07, 11:01, 12:01 and 14:01} and N{07:10, 12:24, 15:17, 15:50}. Similarly, in AmbiguityMapper.xlsx...
